@@ -14,3 +14,5 @@ cd GrabCam_2.0
 pip install -r requirements.txt
 
 python main.py
+
+termux-wake-unlock
